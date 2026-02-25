@@ -1,0 +1,2 @@
+# ValueSphere
+Market insight database
